@@ -17,5 +17,9 @@ $hello = "Hello World!";
     <h1>
         <?= $hello; ?>
     </h1>
+
+    <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit quae sint blanditiis voluptatem, est expedita enim provident porro iure facilis animi aperiam, ipsa hic praesentium odit autem, dolor eius pariatur?
+    </p>
 </body>
 </html>
